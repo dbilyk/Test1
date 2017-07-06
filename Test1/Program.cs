@@ -19,6 +19,7 @@ namespace Test1
 
                 File.WriteAllText(path, ArcadiaFile);
                 Console.WriteLine(ArcadiaFile);
+                string stuff = "test1";
                 
 
             }
